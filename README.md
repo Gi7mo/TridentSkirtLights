@@ -6,6 +6,7 @@
 
 **Assembly**
 - Order the pcb at e.g. [pcbway](https://www.pcbway.com/project/shareproject/Trident_Skirt_Lights_6d030a0b.html) or [jlcpcb](https://jlcpcb.com/) (you need two for one printer)
+    - Or just contact me via Discord "Gi7mo!#4618" i stil have some assembled boards left from my prototyping
 - Order the parts at e.g. [lcsc](https://www.lcsc.com/)
 - Print the new skirts (You WILL need supports)
 - Print the new logo inserts (You WILL need supports)
@@ -24,6 +25,11 @@ initial_RED: 1.0
 - ![Assembly](Images/Assembly.png)
 - ![Animated](Images/trident-skirt-lights.gif)
 
+## Troubleshooting
+- Problem: My Leds showing Random colors
+    - Solution: Add a ~400Ω Resistor on the data line
+
 ## Notes
+- You can contact me via Discord "Gi7mo!#4618"
 - This readme file contains Amazon Associate, Aliexpress affiliate, PCBWay affiliate links. I make a comission on qualifying purchases.
 - This project does not come with any warranty, if you choose to build/use one, you are doing this at your own risk!
